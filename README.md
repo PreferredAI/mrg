@@ -61,9 +61,9 @@ optional arguments:
   --num_factors         NUM_FACTORS
                         Number of latent factors for users/items (default: 256)              
   --word_dim            WORD_DIM
-                        Dimensionality of attention spaces (default: 100)
+                        Word embedding dimensions (default: 200)
   --lstm_dim            LSTM_DIM
-                        LSTM hidden state dimensions (default: 256)
+                        Hidden dimensions of the LSTM Cell (default: 256)
   --max_length          MAX_LENGTH
                         Maximum length of reviews to be generated (default: 20)
   --display_step        DISPLAY_STEP
