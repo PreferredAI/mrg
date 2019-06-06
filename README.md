@@ -8,6 +8,8 @@ This is the code for the paper:
 <br>
 Presented at [WWW 2019](https://www2019.thewebconf.org/)
 
+![](arch.jpg)
+
 We provide:
 
 - Code to train and evaluate the model
