@@ -13,7 +13,7 @@ Presented at [WWW 2019](https://www2019.thewebconf.org/)
 We provide:
 
 - Code to train and evaluate the model
-- [Sample data](http://static.preferred.ai/mrg/data.zip) to run an experiment with MRG
+- [Sample data](https://drive.google.com/file/d/1ZF0-GE0ieYufUXc5vyHrs_Gvy12X77Rd/view?usp=sharing) to run an experiment with MRG
 
 If you find the code and data useful in your research, please cite:
 
