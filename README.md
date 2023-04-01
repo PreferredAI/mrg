@@ -4,7 +4,7 @@ This is the code for the paper:
 
 **[Multimodal Review Generation for Recommender Systems](https://drive.google.com/file/d/12RSrAxp9O5YPPoazoAu5Frc-c0X4Rtyq)**
 <br>
-[Quoc-Tuan Truong](http://www.qttruong.info/) and [Hady W. Lauw](http://www.hadylauw.com/)
+[Quoc-Tuan Truong](http://www.qttruong.com/) and [Hady W. Lauw](http://www.hadylauw.com/)
 <br>
 Presented at [WWW 2019](https://www2019.thewebconf.org/)
 
@@ -75,4 +75,4 @@ optional arguments:
 ```
 
 ## Contact
-Questions and discussion are welcome: www.qttruong.info
+Questions and discussion are welcome: www.qttruong.com
